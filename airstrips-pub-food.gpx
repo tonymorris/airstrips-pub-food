@@ -924,4 +924,55 @@
     <cmt>More like 1.5k to town, but a nice quiet unattended airstrip suitable for camping.</cmt>
     <desc>More like 1.5k to town, but a nice quiet unattended airstrip suitable for camping.</desc>
   </wpt>
+  <wpt lat="-34.215451" lon="145.550623">
+    <ele>0.000000</ele>
+    <name>Corynnia Station</name>
+    <cmt>Corynnia Station</cmt>
+    <desc>Corynnia Station</desc>
+  </wpt>
+  <wpt lat="-31.669085" lon="141.259725">
+    <ele>0.000000</ele>
+    <name>Eldee Station</name>
+    <cmt>Eldee Station. Silverton, NSW</cmt>
+    <desc>Eldee Station. Silverton, NSW</desc>
+  </wpt>
+  <wpt lat="-21.978433" lon="150.158226">
+    <ele>0.000000</ele>
+    <name>Marble Island</name>
+    <cmt>Marble Island http://www.marbleisland.com.au/</cmt>
+    <desc>Marble Island http://www.marbleisland.com.au/</desc>
+  </wpt>
+  <wpt lat="-18.586711" lon="143.566320">
+    <ele>0.000000</ele>
+    <name>YFSA Forsayth</name>
+    <cmt>Airstrip for Cobbold Gorge. It is 40 kilometres away, but they will send a bus to pick you up. Accommodation is good, transfer costs $25 return pp. No fuel.</cmt>
+    <desc>Airstrip for Cobbold Gorge. It is 40 kilometres away, but they will send a bus to pick you up. Accommodation is good, transfer costs $25 return pp. No fuel.</desc>
+  </wpt>
+  <wpt lat="-42.571944" lon="148.070556">
+    <ele>0.000000</ele>
+    <name>Maria Island</name>
+    <cmt>Maria Island Penitentiary Accommodation</cmt>
+    <desc>Maria Island Penitentiary Accommodation</desc>
+  </wpt>
+  <wpt lat="-33.426905" lon="151.036590">
+    <ele>0.000000</ele>
+    <name>The Missions 1937</name>
+    <cmt>The Missions 1937 http://www.themissions1937.com.au/</cmt>
+    <desc>The Missions 1937 http://www.themissions1937.com.au/</desc>
+  </wpt>
+  <wpt lat="-23.654975" lon="149.337158">
+    <ele>0.000000</ele>
+    <name>Dingo Roadhouse</name>
+    <cmt>Dingo Roadhouse</cmt>
+    <desc>Dingo Roadhouse</desc>
+  </wpt>
+
+<!--
+Twamley Farm TAS
+Accommodation airstrip - Fly in and stay at Twamley farm
+http://twamleyfarm.com.au/
+bookings@twamleyfarm.com.au
+0439114996
+-->
+
 </gpx>
