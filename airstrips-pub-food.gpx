@@ -1,0 +1,927 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<gpx xmlns="http://www.topografix.com/GPX/1/0" version="1.0" creator="GPSBabel - http://www.gpsbabel.org">
+  <metadata>
+    <name>Airstrips within 1km of pub and food</name>
+    <desc>A sanitisation of an internet forum thread http://www.recreationalflying.com/threads/fly-in-resorts-and-accommodation.150828/</desc>
+    <author>
+      <name>Tony Morris</name>
+      <email id="tmorris" domain="tmorris.net"/>
+      <link href="http://tmorris.net/">
+        <text>Tony Morris</text>
+        <type>HTTP</type>
+      </link>
+    </author>
+    <copyright author="Tony Morris">
+      <year>2017</year>
+      <license>http://en.wikipedia.org/wiki/Beerware</license>
+    </copyright>    
+    <bounds minlat="-42.512222000" minlon="113.663607000" maxlat="-14.778949000" maxlon="153.413343000"/>
+  </metadata>
+  <wpt lat="-28.163427000" lon="145.046310000">
+    <ele>0.000000</ele>
+    <name>Eulo</name>
+    <cmt>Airstrip is right across the road from historic pub.&lt;br>A really good stopover.&lt;br>The store has burned down so no ULP now.</cmt>
+    <desc>Airstrip is right across the road from historic pub.&lt;br>A really good stopover.&lt;br>The store has burned down so no ULP now.</desc>
+  </wpt>
+  <wpt lat="-35.656878000" lon="145.565844000">
+    <ele>0.000000</ele>
+    <name>Finley</name>
+    <cmt>1k to the centre of town.</cmt>
+    <desc>1k to the centre of town.</desc>
+  </wpt>
+  <wpt lat="-22.974594000" lon="134.246879000">
+    <ele>0.000000</ele>
+    <name>Gemtree Caravan Park</name>
+    <cmt>Very welcoming to fliers.&lt;br>Accommodation food and drink. &lt;br>Will supply PULP on request.&lt;br>See www.gemtree.com.au/</cmt>
+    <desc>Very welcoming to fliers.&lt;br>Accommodation food and drink. &lt;br>Will supply PULP on request.&lt;br>See www.gemtree.com.au/</desc>
+  </wpt>
+  <wpt lat="-31.705679000" lon="148.640900000">
+    <ele>0.000000</ele>
+    <name>Gilgandra</name>
+    <cmt>Airstrip at the edge of town.</cmt>
+    <desc>Airstrip at the edge of town.</desc>
+  </wpt>
+  <wpt lat="-18.231807000" lon="127.669265000">
+    <ele>0.000000</ele>
+    <name>Halls Creek</name>
+    <cmt>Upmarket hotel right next to the airfield.</cmt>
+    <desc>Upmarket hotel right next to the airfield.</desc>
+  </wpt>
+  <wpt lat="-33.494023000" lon="145.525246000">
+    <ele>0.000000</ele>
+    <name>Hillston</name>
+    <cmt>Airstrip right next to town.</cmt>
+    <desc>Airstrip right next to town.</desc>
+  </wpt>
+  <wpt lat="-23.499695000" lon="144.514761000">
+    <ele>0.000000</ele>
+    <name>Ilfracombe</name>
+    <cmt>1k to historic pub.  Great museum of old machinery displayed along the road.  Sheep dog demos at the pub some evenings.</cmt>
+    <desc>1k to historic pub.  Great museum of old machinery displayed along the road.  Sheep dog demos at the pub some evenings.</desc>
+  </wpt>
+  <wpt lat="-28.416881000" lon="151.096516000">
+    <ele>0.000000</ele>
+    <name>Inglewood</name>
+    <cmt>Pleasant 1k walk.  Pubs and Bowling Club.</cmt>
+    <desc>Pleasant 1k walk.  Pubs and Bowling Club.</desc>
+  </wpt>
+  <wpt lat="-25.854126000" lon="148.552494000">
+    <ele>0.000000</ele>
+    <name>Injune</name>
+    <cmt>1k to pub and cafe.</cmt>
+    <desc>1k to pub and cafe.</desc>
+  </wpt>
+  <wpt lat="-27.702680000" lon="140.736580000">
+    <ele>0.000000</ele>
+    <name>Innaminka</name>
+    <cmt>Pub and food and laundry facilities 1km.&lt;br>PULP, ULP.</cmt>
+    <desc>Pub and food and laundry facilities 1km.&lt;br>PULP, ULP.</desc>
+  </wpt>
+  <wpt lat="-35.368335000" lon="145.722313000">
+    <ele>0.000000</ele>
+    <name>Jerilderie</name>
+    <cmt>1k to the pub.Historic town, Ned Kelly robbed the bank....</cmt>
+    <desc>1k to the pub.Historic town, Ned Kelly robbed the bank....</desc>
+  </wpt>
+  <wpt lat="-24.837063000" lon="143.062334000">
+    <ele>0.000000</ele>
+    <name>Jundah</name>
+    <cmt>Airstrip next to town.</cmt>
+    <desc>Airstrip next to town.</desc>
+  </wpt>
+  <wpt lat="-28.683133000" lon="143.933430000">
+    <ele>0.000000</ele>
+    <name>Kilcowera</name>
+    <cmt>Another farm stay with great hospitality.&lt;br>http://www.kilcowera.com.au/</cmt>
+    <desc>Another farm stay with great hospitality.&lt;br>http://www.kilcowera.com.au/</desc>
+  </wpt>
+  <wpt lat="-25.841690000" lon="133.296347000">
+    <ele>0.000000</ele>
+    <name>Kulgera</name>
+    <cmt>Taxi along the road to the highway.  &lt;br>Roadhouse is right across the highway.&lt;br>ULP, PULP.</cmt>
+    <desc>Taxi along the road to the highway.  &lt;br>Roadhouse is right across the highway.&lt;br>ULP, PULP.</desc>
+  </wpt>
+  <wpt lat="-40.206804000" lon="148.236680000">
+    <ele>0.000000</ele>
+    <name>Lady Barron Grass</name>
+    <cmt>Private airstrip right adjoining the town.&lt;br>Welcoming owner.&lt;br>A most spectacular view from the veranda of the very active and friendly pub.&lt;br>Really worth a visit!&lt;br>Another airstrip 1 nm to the north is designated Lady Barron Gravel.</cmt>
+    <desc>Private airstrip right adjoining the town.&lt;br>Welcoming owner.&lt;br>A most spectacular view from the veranda of the very active and friendly pub.&lt;br>Really worth a visit!&lt;br>Another airstrip 1 nm to the north is designated Lady Barron Gravel.</desc>
+  </wpt>
+  <wpt lat="-32.791045000" lon="115.670832000">
+    <ele>0.000000</ele>
+    <name>Lake Clifton</name>
+    <cmt>900 metre airstrip which isless than a hundred metres from the Tavern, then you have an easy stagger to the caravan park which is next door</cmt>
+    <desc>900 metre airstrip which isless than a hundred metres from the Tavern, then you have an easy stagger to the caravan park which is next door</desc>
+  </wpt>
+  <wpt lat="-18.694627000" lon="138.527555000">
+    <ele>0.000000</ele>
+    <name>Lawn Hill</name>
+    <cmt>A popular fly-in adventure resort.&lt;br>http://www.adelsgrove.com.au/</cmt>
+    <desc>A popular fly-in adventure resort.&lt;br>http://www.adelsgrove.com.au/</desc>
+  </wpt>
+  <wpt lat="-28.902397000" lon="121.311035000">
+    <ele>0.000000</ele>
+    <name>Leonora</name>
+    <cmt>1k to town.Active gold mining, lots of interesting characters in the pubs.</cmt>
+    <desc>1k to town.Active gold mining, lots of interesting characters in the pubs.</desc>
+  </wpt>
+  <wpt lat="-38.197602000" lon="144.619882000">
+    <ele>0.000000</ele>
+    <name>Loam Restaurant</name>
+    <cmt>Another great strip is at Loam Reastaurant on the Balarine Peninsula near Drysdale. Just got nominated for best new restaurant. Very Degustation style Menu, where you have to look for the food on the plate...but worthy of a stop anyday.</cmt>
+    <desc>Another great strip is at Loam Reastaurant on the Balarine Peninsula near Drysdale. Just got nominated for best new restaurant. Very Degustation style Menu, where you have to look for the food on the plate...but worthy of a stop anyday.</desc>
+  </wpt>
+  <wpt lat="-29.658223000" lon="138.070335000">
+    <ele>0.000000</ele>
+    <name>Marree</name>
+    <cmt>1k to a beautiful old pub.&lt;br>Caravan park 200m.&lt;br>A lot of history still evident, formerly the end of the rail and start of the Birdsville Track, and base for Afghan cameleers.</cmt>
+    <desc>1k to a beautiful old pub.&lt;br>Caravan park 200m.&lt;br>A lot of history still evident, formerly the end of the rail and start of the Birdsville Track, and base for Afghan cameleers.</desc>
+  </wpt>
+  <wpt lat="-36.911608000" lon="149.900036000">
+    <ele>0.000000</ele>
+    <name>Merimbula</name>
+    <cmt>2km to town, along a very pleasant walkway.Golf Club just south of the field has excellent lunches.&lt;br>The beach is just across the road.</cmt>
+    <desc>2km to town, along a very pleasant walkway.Golf Club just south of the field has excellent lunches.&lt;br>The beach is just across the road.</desc>
+  </wpt>
+  <wpt lat="-29.738539000" lon="141.878729000">
+    <ele>0.000000</ele>
+    <name>Milparinka</name>
+    <cmt>Taxi to the pub.&lt;br>But unfortunately pub is closed at this time, Aug 2011.......&lt;br>Historic sandstone buildings from gold mining days.</cmt>
+    <desc>Taxi to the pub.&lt;br>But unfortunately pub is closed at this time, Aug 2011.......&lt;br>Historic sandstone buildings from gold mining days.</desc>
+  </wpt>
+  <wpt lat="-36.733794000" lon="147.169633000">
+    <ele>0.000000</ele>
+    <name>Mt Beauty</name>
+    <cmt>Airstrip next to town in spectacularly beautiful scenery.  A very pleasant walk through a park into town.</cmt>
+    <desc>Airstrip next to town in spectacularly beautiful scenery.  A very pleasant walk through a park into town.</desc>
+  </wpt>
+  <wpt lat="-28.020791000" lon="138.661108000">
+    <ele>0.000000</ele>
+    <name>Mungerannie Roadhouse</name>
+    <cmt>Used to be an excellent stop, but the airstrip, owned by the neighboring property, is now closed, and they mean it!&lt;br>Land on the driveway if you have a STOL aircraft and really know how to land it, but totally at your own risk.......&lt;br>Excellent hospitality if you do get in there!&lt;br>Soak in a natural hot pool.</cmt>
+    <desc>Used to be an excellent stop, but the airstrip, owned by the neighboring property, is now closed, and they mean it!&lt;br>Land on the driveway if you have a STOL aircraft and really know how to land it, but totally at your own risk.......&lt;br>Excellent hospitality if you do get in there!&lt;br>Soak in a natural hot pool.</desc>
+  </wpt>
+  <wpt lat="-28.331166000" lon="153.413343000">
+    <ele>0.000000</ele>
+    <name>Murwillumbah</name>
+    <cmt>1km to pubs and RSL Club for excellent food and drink.Beautiful strip, recently upgraded so not boggy after rain.</cmt>
+    <desc>1km to pubs and RSL Club for excellent food and drink.Beautiful strip, recently upgraded so not boggy after rain.</desc>
+  </wpt>
+  <wpt lat="-14.778949000" lon="143.504276000">
+    <ele>0.000000</ele>
+    <name>Musgrave Roadhouse</name>
+    <cmt>Taxi to the roadhouse.&lt;br>Excellent burgers.</cmt>
+    <desc>Taxi to the roadhouse.&lt;br>Excellent burgers.</desc>
+  </wpt>
+  <wpt lat="-22.587149000" lon="144.528151000">
+    <ele>0.000000</ele>
+    <name>Muttaburra</name>
+    <cmt>A real local pub with no fancy trimmings. Lots of Maori shearers based here.&lt;br>Airstrip 1km.</cmt>
+    <desc>A real local pub with no fancy trimmings. Lots of Maori shearers based here.&lt;br>Airstrip 1km.</desc>
+  </wpt>
+  <wpt lat="-32.218610000" lon="148.222561000">
+    <ele>0.000000</ele>
+    <name>Narromine</name>
+    <cmt>Accommodation adjoining field.  &lt;br>Tourist park with motel and camping.&lt;br>Pilots bed and breakfast special.  Avgas.&lt;br>On Friday and Saturday  evenings the bar is open and meals are available through the Narromine Aero Club ( one of Australia's oldest Aero clubs) and on Sunday night the Narromine Gliding Club.&lt;br>Pleasant walk to town.&lt;br>Many of us have enjoyed NatFly at Narromine and much preferred when it there.......</cmt>
+    <desc>Accommodation adjoining field.  &lt;br>Tourist park with motel and camping.&lt;br>Pilots bed and breakfast special.  Avgas.&lt;br>On Friday and Saturday  evenings the bar is open and meals are available through the Narromine Aero Club ( one of Australia's oldest Aero clubs) and on Sunday night the Narromine Gliding Club.&lt;br>Pleasant walk to town.&lt;br>Many of us have enjoyed NatFly at Narromine and much preferred when it there.......</desc>
+  </wpt>
+  <wpt lat="-21.702871000" lon="148.694136000">
+    <ele>0.000000</ele>
+    <name>Nebo</name>
+    <cmt>the strip bitumen and the pub is only a few hundred meters down the road for meals.</cmt>
+    <desc>the strip bitumen and the pub is only a few hundred meters down the road for meals.</desc>
+  </wpt>
+  <wpt lat="-27.815090000" lon="142.589192000">
+    <ele>0.000000</ele>
+    <name>Noccundra</name>
+    <cmt>Taxi right up to the pub and food.</cmt>
+    <desc>Taxi right up to the pub and food.</desc>
+  </wpt>
+  <wpt lat="-17.685813000" lon="141.072693000">
+    <ele>0.000000</ele>
+    <name>Normanton</name>
+    <cmt>1k to town, all facilities.</cmt>
+    <desc>1k to town, all facilities.</desc>
+  </wpt>
+  <wpt lat="-31.449149000" lon="130.896478000">
+    <ele>0.000000</ele>
+    <name>Nullarbor Roadhouse</name>
+    <cmt>Taxi right up to the back of the roadhouse.</cmt>
+    <desc>Taxi right up to the back of the roadhouse.</desc>
+  </wpt>
+  <wpt lat="-31.968947000" lon="152.591128000">
+    <ele>0.000000</ele>
+    <name>Old Bar</name>
+    <cmt>Airstrip next to caravan park right on the beach.&lt;br>1k to pubs and club.  Shuttle bus to club.</cmt>
+    <desc>Airstrip next to caravan park right on the beach.&lt;br>1k to pubs and club.  Shuttle bus to club.</desc>
+  </wpt>
+  <wpt lat="-24.959857000" lon="153.315196000">
+    <ele>0.000000</ele>
+    <name>Orchid Beach</name>
+    <cmt>It's a grass strip about 650m long, right by a servo and coffee place/little shop called The Trading Post. You pay a $20 landing fee to them. It's right by the sea. Fly at legal hight up the East coast of Fraser and as you get to the top, it's there on your left.&lt;br>Great for a picnic, and there is accomodation nearby.</cmt>
+    <desc>It's a grass strip about 650m long, right by a servo and coffee place/little shop called The Trading Post. You pay a $20 landing fee to them. It's right by the sea. Fly at legal hight up the East coast of Fraser and as you get to the top, it's there on your left.&lt;br>Great for a picnic, and there is accomodation nearby.</desc>
+  </wpt>
+  <wpt lat="-31.131303000" lon="138.399711000">
+    <ele>0.000000</ele>
+    <name>Parachilna</name>
+    <cmt>200m across the road.Try the Prairie Hotel at Parachilnya SA for great food, friendly people and nice accommodation. Strip is an old road with a bit of a kink in it but its OK.</cmt>
+    <desc>200m across the road.Try the Prairie Hotel at Parachilnya SA for great food, friendly people and nice accommodation. Strip is an old road with a bit of a kink in it but its OK.</desc>
+  </wpt>
+  <wpt lat="-29.262591000" lon="117.676020000">
+    <ele>0.000000</ele>
+    <name>Paynes Find</name>
+    <cmt>1km to the settlement. Littered with mine shafts and still being mined for gold. Could be worth a visit with gold fetching > $1800 an ounce eh?</cmt>
+    <desc>1km to the settlement. Littered with mine shafts and still being mined for gold. Could be worth a visit with gold fetching > $1800 an ounce eh?</desc>
+  </wpt>
+  <wpt lat="-20.873248000" lon="144.590464000">
+    <ele>0.000000</ele>
+    <name>Prairie</name>
+    <cmt>500m to a real bush pub in cattle country.&lt;br>Excellent meals and camping.  If you camp and have meals will arrange mogas and maybe a lift. Tom is the publican 07 4741 5221.&lt;br>Strip is red clay 1000m 18/36.</cmt>
+    <desc>500m to a real bush pub in cattle country.&lt;br>Excellent meals and camping.  If you camp and have meals will arrange mogas and maybe a lift. Tom is the publican 07 4741 5221.&lt;br>Strip is red clay 1000m 18/36.</desc>
+  </wpt>
+  <wpt lat="-26.611321000" lon="144.256668000">
+    <ele>0.000000</ele>
+    <name>Quilpie</name>
+    <cmt>About 600m to town.A really nice town, even an upmarket coffee shop with real coffee and quiche and such stuff....</cmt>
+    <desc>About 600m to town.A really nice town, even an upmarket coffee shop with real coffee and quiche and such stuff....</desc>
+  </wpt>
+  <wpt lat="-24.460901000" lon="148.626695000">
+    <ele>0.000000</ele>
+    <name>Rolleston</name>
+    <cmt>Strip right at edge of town.&lt;br>Camp on airstrip, toilets at adjoining sports ground.  &lt;br>Pub and food easy walk.</cmt>
+    <desc>Strip right at edge of town.&lt;br>Camp on airstrip, toilets at adjoining sports ground.  &lt;br>Pub and food easy walk.</desc>
+  </wpt>
+  <wpt lat="-20.275724000" lon="148.754711000">
+    <ele>0.000000</ele>
+    <name>Shute Harbour</name>
+    <cmt>NOTE:  This strip has the potential to be&lt;br>VERY character-building, if winds are high (above 15 kts) with lots of severe, (and I do mean severe!) turbulance and sink, because of sourrounding hills and terrain, and lots of islands off the coast upwind.   &lt;br>100 hour minimum PIC requirement but if you meet that very well worth the visit.   &lt;br>Wave Airpark and the Beaver Bar, and the FlameTree Caravan Park 200 meters walk away so you have food, accommodation and a great little bitumen airstrip...</cmt>
+    <desc>NOTE:  This strip has the potential to be&lt;br>VERY character-building, if winds are high (above 15 kts) with lots of severe, (and I do mean severe!) turbulance and sink, because of sourrounding hills and terrain, and lots of islands off the coast upwind.   &lt;br>100 hour minimum PIC requirement but if you meet that very well worth the visit.   &lt;br>Wave Airpark and the Beaver Bar, and the FlameTree Caravan Park 200 meters walk away so you have food, accommodation and a great little bitumen airstrip...</desc>
+  </wpt>
+  <wpt lat="-29.707997000" lon="152.928572000">
+    <ele>0.000000</ele>
+    <name>South Grafton</name>
+    <cmt>Aero club has a bar, it is not licensed except for special events. There are 5 bunks in the bunkhouse &amp; there is a kitchen, toilet &amp; shower. The nearest Pub which also has accommodation (The Royal) is only 3 minutes walk &amp; they do great $8.50 lunches. Cookes Petrol Station is next to the Pub.</cmt>
+    <desc>Aero club has a bar, it is not licensed except for special events. There are 5 bunks in the bunkhouse &amp; there is a kitchen, toilet &amp; shower. The nearest Pub which also has accommodation (The Royal) is only 3 minutes walk &amp; they do great $8.50 lunches. Cookes Petrol Station is next to the Pub.</desc>
+  </wpt>
+  <wpt lat="-24.125527000" lon="148.087378000">
+    <ele>0.000000</ele>
+    <name>Springsure</name>
+    <cmt>Just walk 1 k down hill to the pub.</cmt>
+    <desc>Just walk 1 k down hill to the pub.</desc>
+  </wpt>
+  <wpt lat="-24.356011000" lon="143.291245000">
+    <ele>0.000000</ele>
+    <name>Stonehenge</name>
+    <cmt>Airstrip right beside town.</cmt>
+    <desc>Airstrip right beside town.</desc>
+  </wpt>
+  <wpt lat="-27.159211000" lon="149.074860000">
+    <ele>0.000000</ele>
+    <name>Surat</name>
+    <cmt>Strip right adjoining the town.&lt;br>All facilities.</cmt>
+    <desc>Strip right adjoining the town.&lt;br>All facilities.</desc>
+  </wpt>
+  <wpt lat="-17.124222000" lon="139.603271000">
+    <ele>0.000000</ele>
+    <name>Sweers Island</name>
+    <cmt>A popular fly-in fishing resort.&lt;br>http://www.sweers.com.au/</cmt>
+    <desc>A popular fly-in fishing resort.&lt;br>http://www.sweers.com.au/</desc>
+  </wpt>
+  <wpt lat="-31.890221000" lon="152.509160000">
+    <ele>0.000000</ele>
+    <name>Taree</name>
+    <cmt>Hotel about 300m.</cmt>
+    <desc>Hotel about 300m.</desc>
+  </wpt>
+  <wpt lat="-25.632628000" lon="149.777942000">
+    <ele>0.000000</ele>
+    <name>Taroom</name>
+    <cmt>Less than 1km to town.</cmt>
+    <desc>Less than 1km to town.</desc>
+  </wpt>
+  <wpt lat="-22.130489000" lon="133.418655000">
+    <ele>0.000000</ele>
+    <name>Ti Tree</name>
+    <cmt>Airstrip is right behind the roadhouse.</cmt>
+    <desc>Airstrip is right behind the roadhouse.</desc>
+  </wpt>
+  <wpt lat="-27.989854000" lon="143.814640000">
+    <ele>0.000000</ele>
+    <name>Thargominda</name>
+    <cmt>Easy walk to town, past the historic first thermal hydro power station in the country.</cmt>
+    <desc>Easy walk to town, past the historic first thermal hydro power station in the country.</desc>
+  </wpt>
+  <wpt lat="-30.926157000" lon="144.418201000">
+    <ele>0.000000</ele>
+    <name>Tilpa</name>
+    <cmt>1k to the pub.On the Darling River.</cmt>
+    <desc>1k to the pub.On the Darling River.</desc>
+  </wpt>
+  <wpt lat="-27.156195000" lon="124.578524000">
+    <ele>0.000000</ele>
+    <name>Tjukayirla Roadhouse</name>
+    <cmt>A section of road is bitumen and signposted as an airstrip.ULP&lt;br>Basic supplies.&lt;br>No alcohol.</cmt>
+    <desc>A section of road is bitumen and signposted as an airstrip.ULP&lt;br>Basic supplies.&lt;br>No alcohol.</desc>
+  </wpt>
+  <wpt lat="-27.543208000" lon="151.918001000">
+    <ele>0.000000</ele>
+    <name>Toowoomba</name>
+    <cmt>The aero club has a bar which is only open on Friday nights, but it is still a bar! There is a motel (not a very good one) in walking distance, a bit further away is cholesterol corner with every type of fast food, supermarket, and a pub with a Pitts tail in the wall. The pub has good food and cheap motel rooms. Sealed and grass runway, fuel.</cmt>
+    <desc>The aero club has a bar which is only open on Friday nights, but it is still a bar! There is a motel (not a very good one) in walking distance, a bit further away is cholesterol corner with every type of fast food, supermarket, and a pub with a Pitts tail in the wall. The pub has good food and cheap motel rooms. Sealed and grass runway, fuel.</desc>
+  </wpt>
+  <wpt lat="-42.512222000" lon="147.900417000">
+    <ele>0.000000</ele>
+    <name>Triabunna</name>
+    <cmt>A private grass airstrip just to the west of town.  John Salmon the owner is a welcoming host, with lots of flying adventures to share in the pub. Permission required 03 6257 3186 or  0417 309 488.</cmt>
+    <desc>A private grass airstrip just to the west of town.  John Salmon the owner is a welcoming host, with lots of flying adventures to share in the pub. Permission required 03 6257 3186 or  0417 309 488.</desc>
+  </wpt>
+  <wpt lat="-26.113905000" lon="149.954882000">
+    <ele>0.000000</ele>
+    <name>Wandoan</name>
+    <cmt>Grass strip is long and wide, fenced and well maintained. WATCH FOR HIGH TOWER just to the west of the strip. &lt;br>Short walk to town for shops, food or fuel from servo.</cmt>
+    <desc>Grass strip is long and wide, fenced and well maintained. WATCH FOR HIGH TOWER just to the west of the strip. &lt;br>Short walk to town for shops, food or fuel from servo.</desc>
+  </wpt>
+  <wpt lat="-25.044976000" lon="128.297567000">
+    <ele>0.000000</ele>
+    <name>Warakurna Roadhouse</name>
+    <cmt>Airstrip serving the Warakurna Community and Giles weather station.Basic supplies and accommodation.&lt;br>Safe camping.&lt;br>No alcohol.&lt;br>ULP, Avgas.</cmt>
+    <desc>Airstrip serving the Warakurna Community and Giles weather station.Basic supplies and accommodation.&lt;br>Safe camping.&lt;br>No alcohol.&lt;br>ULP, Avgas.</desc>
+  </wpt>
+  <wpt lat="-26.131938000" lon="126.582756000">
+    <ele>0.000000</ele>
+    <name>Warburton</name>
+    <cmt>Airstrip right on the edge of town.Avgas.&lt;br>No alcohol allowed.&lt;br>Not recommended for overnight stop due possible vandalism.</cmt>
+    <desc>Airstrip right on the edge of town.Avgas.&lt;br>No alcohol allowed.&lt;br>Not recommended for overnight stop due possible vandalism.</desc>
+  </wpt>
+  <wpt lat="-28.906380000" lon="136.339903000">
+    <ele>0.000000</ele>
+    <name>William Creek</name>
+    <cmt>Right next to pub and roadhouse.&lt;br>Very busy airfield with charter ops to Lake Eyre.&lt;br>Old rocket casings from Woomera on display.&lt;br>All fuels.</cmt>
+    <desc>Right next to pub and roadhouse.&lt;br>Very busy airfield with charter ops to Lake Eyre.&lt;br>Old rocket casings from Woomera on display.&lt;br>All fuels.</desc>
+  </wpt>
+  <wpt lat="-31.516801000" lon="138.623772000">
+    <ele>0.000000</ele>
+    <name>Wilpena Pound</name>
+    <cmt>See http://www.wilpenapound.com.au/</cmt>
+    <desc>See http://www.wilpenapound.com.au/</desc>
+  </wpt>
+  <wpt lat="-34.560435000" lon="150.788383000">
+    <ele>0.000000</ele>
+    <name>Wollongong</name>
+    <cmt>News is that the cafe overlooking the runway has burned down and not likely to rebuild.... . If there during the day, drop into HARS to see the Connie, Catalina and Hunter. Sealed runways, fuel.</cmt>
+    <desc>News is that the cafe overlooking the runway has burned down and not likely to rebuild.... . If there during the day, drop into HARS to see the Connie, Catalina and Hunter. Sealed runways, fuel.</desc>
+  </wpt>
+  <wpt lat="-15.507033000" lon="128.153028000">
+    <ele>0.000000</ele>
+    <name>Wyndham</name>
+    <cmt>Wyndham Country Club just 600m along the road.A very friendly pub with all sorts of characters.&lt;br>Good cheap food.</cmt>
+    <desc>Wyndham Country Club just 600m along the road.A very friendly pub with all sorts of characters.&lt;br>Good cheap food.</desc>
+  </wpt>
+  <wpt lat="-40.993893000" lon="145.725918000">
+    <ele>0.000000</ele>
+    <name>Wynyard</name>
+    <cmt>Airfield right at the edge of the town.</cmt>
+    <desc>Airfield right at the edge of the town.</desc>
+  </wpt>
+  <wpt lat="-24.898971000" lon="144.045095000">
+    <ele>0.000000</ele>
+    <name>Yaraka</name>
+    <cmt>It's more like 2km, but definitely a real country pub and worth the walk.  &lt;br> Lovely little pub, accommodation is more than sufficient, 8 beds in four rooms. B&amp;B cost us $50 and dinner was a huge BBQ for a donation to the RFDS. Call 'Thomo' at the pub before arrival 46575526 so he can get the beer cold.</cmt>
+    <desc>It's more like 2km, but definitely a real country pub and worth the walk.  &lt;br> Lovely little pub, accommodation is more than sufficient, 8 beds in four rooms. B&amp;B cost us $50 and dinner was a huge BBQ for a donation to the RFDS. Call 'Thomo' at the pub before arrival 46575526 so he can get the beer cold.</desc>
+  </wpt>
+  <wpt lat="-38.773692000" lon="143.661175000">
+    <ele>0.000000</ele>
+    <name>Apollo Bay</name>
+    <cmt>Absolutely beautiful bay. Short walk to the pub and many restaurants with a scenic view of the ocean.</cmt>
+    <desc>Absolutely beautiful bay. Short walk to the pub and many restaurants with a scenic view of the ocean.</desc>
+  </wpt>
+  <wpt lat="-30.405748000" lon="139.346638000">
+    <ele>0.000000</ele>
+    <name>Arkaroola</name>
+    <cmt>Strip is 10k from the resort, but overfly the resort and call on 126.7 for pick-up.  Signal is blocked from the airstrip when on the ground.&lt;br>VERY AIRCRAFT FRIENDLY!&lt;br>Always excellent hospitality!&lt;br>Accommodation from camping to dongas to several stars.&lt;br>Spectacular scenery all round.&lt;br>Two excellent celestial observatories.&lt;br>ULP, PULP and Avgas.  Best place to fuel anywhere around.&lt;br>An absolutely essential and memorable stopover for for all aircraft!</cmt>
+    <desc>Strip is 10k from the resort, but overfly the resort and call on 126.7 for pick-up.  Signal is blocked from the airstrip when on the ground.&lt;br>VERY AIRCRAFT FRIENDLY!&lt;br>Always excellent hospitality!&lt;br>Accommodation from camping to dongas to several stars.&lt;br>Spectacular scenery all round.&lt;br>Two excellent celestial observatories.&lt;br>ULP, PULP and Avgas.  Best place to fuel anywhere around.&lt;br>An absolutely essential and memorable stopover for for all aircraft!</desc>
+  </wpt>
+  <wpt lat="-22.368015000" lon="118.687835000">
+    <ele>0.000000</ele>
+    <name>Auski Roadhouse</name>
+    <cmt>1k to an isolated roadhouse.Beer if you buy a meal.</cmt>
+    <desc>1k to an isolated roadhouse.Beer if you buy a meal.</desc>
+  </wpt>
+  <wpt lat="-23.560053000" lon="145.302944000">
+    <ele>0.000000</ele>
+    <name>Barcaldine</name>
+    <cmt>1k to excellent historic country town with all facilities.</cmt>
+    <desc>1k to excellent historic country town with all facilities.</desc>
+  </wpt>
+  <wpt lat="-19.708375000" lon="135.821743000">
+    <ele>0.000000</ele>
+    <name>Barkly Homestead</name>
+    <cmt>Airstrip 200m from roadhouse.</cmt>
+    <desc>Airstrip 200m from roadhouse.</desc>
+  </wpt>
+  <wpt lat="-36.951915000" lon="147.698822000">
+    <ele>0.000000</ele>
+    <name>Benambra</name>
+    <cmt>Two airstrips here, a mile or two apart.Use the one on the dry lake bed to the west of town.&lt;br>Ben Buckley will give a warm welcome and an entertaining time, guaranteed!&lt;br>Just a short walk to the pub.&lt;br>This is Victorian high plains country, and a very unique feel about it.</cmt>
+    <desc>Two airstrips here, a mile or two apart.Use the one on the dry lake bed to the west of town.&lt;br>Ben Buckley will give a warm welcome and an entertaining time, guaranteed!&lt;br>Just a short walk to the pub.&lt;br>This is Victorian high plains country, and a very unique feel about it.</desc>
+  </wpt>
+  <wpt lat="-25.520233000" lon="152.046382000">
+    <ele>0.000000</ele>
+    <name>Biiggenden</name>
+    <cmt>About 500m across the oval to the town.</cmt>
+    <desc>About 500m across the oval to the town.</desc>
+  </wpt>
+  <wpt lat="-26.817483000" lon="114.611349000">
+    <ele>0.000000</ele>
+    <name>Billabong Roadhouse</name>
+    <cmt>Airstrip out back of the roadhouse.</cmt>
+    <desc>Airstrip out back of the roadhouse.</desc>
+  </wpt>
+  <wpt lat="-25.897372000" lon="139.350243000">
+    <ele>0.000000</ele>
+    <name>Birdsville</name>
+    <cmt>Pub right across the road.&lt;br>PULP, ULP right across the road.&lt;br>Avgas on field.</cmt>
+    <desc>Pub right across the road.&lt;br>PULP, ULP right across the road.&lt;br>Avgas on field.</desc>
+  </wpt>
+  <wpt lat="-26.713366000" lon="147.683748000">
+    <ele>0.000000</ele>
+    <name>Bonus Downs</name>
+    <cmt>A recommended farm stay.&lt;br>www.bonusdowns.webls.net</cmt>
+    <desc>A recommended farm stay.&lt;br>www.bonusdowns.webls.net</desc>
+  </wpt>
+  <wpt lat="-31.638183000" lon="129.010391000">
+    <ele>0.000000</ele>
+    <name>Border Village</name>
+    <cmt>Strip right next to roadhouse.ULP, PULP.</cmt>
+    <desc>Strip right next to roadhouse.ULP, PULP.</desc>
+  </wpt>
+  <wpt lat="-22.912231000" lon="139.902477000">
+    <ele>0.000000</ele>
+    <name>Boulia</name>
+    <cmt>Easy walking distance to pub. &lt;br>Restaurant at pub expensive, but excellent value food at the servo restaurant at the far end of the street.&lt;br>PULP, ULP &lt;br>Proprietors will help transport fuel back to airfield&lt;br>Avgas on field.</cmt>
+    <desc>Easy walking distance to pub. &lt;br>Restaurant at pub expensive, but excellent value food at the servo restaurant at the far end of the street.&lt;br>PULP, ULP &lt;br>Proprietors will help transport fuel back to airfield&lt;br>Avgas on field.</desc>
+  </wpt>
+  <wpt lat="-36.457154000" lon="146.432347000">
+    <ele>0.000000</ele>
+    <name>Brown Brothers Winery</name>
+    <cmt>Winery and epicurean centre right across the road.</cmt>
+    <desc>Winery and epicurean centre right across the road.</desc>
+  </wpt>
+  <wpt lat="-19.220721000" lon="140.353432000">
+    <ele>0.000000</ele>
+    <name>Burke and Wills Roadhouse</name>
+    <cmt>Airstrip right behind the roadhouse.&lt;br>Good food and cold beer, good atmosphere with varied travelers dropping in.&lt;br>ULP</cmt>
+    <desc>Airstrip right behind the roadhouse.&lt;br>Good food and cold beer, good atmosphere with varied travelers dropping in.&lt;br>ULP</desc>
+  </wpt>
+  <wpt lat="-17.748523000" lon="139.537010000">
+    <ele>0.000000</ele>
+    <name>Burketown</name>
+    <cmt>1k to pub with food.</cmt>
+    <desc>1k to pub with food.</desc>
+  </wpt>
+  <wpt lat="-27.078997000" lon="152.981529000">
+    <ele>0.000000</ele>
+    <name>Caboolture</name>
+    <cmt>The aero club building did have food and a bar but it is currently closed due to a fire. Not to worry, there is a pub in walking distance on the same road as the airport.  You can also get a bus from near the pub to the railway station if you need to go anywhere. Grass runways, fuel.</cmt>
+    <desc>The aero club building did have food and a bar but it is currently closed due to a fire. Not to worry, there is a pub in walking distance on the same road as the airport.  You can also get a bus from near the pub to the railway station if you need to go anywhere. Grass runways, fuel.</desc>
+  </wpt>
+  <wpt lat="-27.907476000" lon="134.056334000">
+    <ele>0.000000</ele>
+    <name>Cadney Homestead</name>
+    <cmt>Airstrip is adjoining roadhouse.ULP, PULP, Avgas.</cmt>
+    <desc>Airstrip is adjoining roadhouse.ULP, PULP, Avgas.</desc>
+  </wpt>
+  <wpt lat="-29.000033000" lon="140.997570000">
+    <ele>0.000000</ele>
+    <name>Cameron Corner</name>
+    <cmt>Taxi across the road to pub and roadhouse food.&lt;br>ULP</cmt>
+    <desc>Taxi across the road to pub and roadhouse food.&lt;br>ULP</desc>
+  </wpt>
+  <wpt lat="-16.398871000" lon="122.929802000">
+    <ele>0.000000</ele>
+    <name>Cape Leveque</name>
+    <cmt>http://www.kooljaman.com.au/</cmt>
+    <desc>http://www.kooljaman.com.au/</desc>
+  </wpt>
+  <wpt lat="-23.454625000" lon="119.798570000">
+    <ele>0.000000</ele>
+    <name>Capricorn Roadhouse</name>
+    <cmt>Old airstrip with no windsock in back of the roadhouse.  3 miles south of Newman airport with frequent jets so radio calls essential!Super truck stop with showers, laundry, huge plates working-man food, and of course beer.</cmt>
+    <desc>Old airstrip with no windsock in back of the roadhouse.  3 miles south of Newman airport with frequent jets so radio calls essential!Super truck stop with showers, laundry, huge plates working-man food, and of course beer.</desc>
+  </wpt>
+  <wpt lat="-24.883400000" lon="113.663607000">
+    <ele>0.000000</ele>
+    <name>Carnarvon</name>
+    <cmt>Airfield right on the edge of town.</cmt>
+    <desc>Airfield right on the edge of town.</desc>
+  </wpt>
+  <wpt lat="-32.782656000" lon="151.339931000">
+    <ele>0.000000</ele>
+    <name>Cessnock</name>
+    <cmt>There is a cafe at the airport, I haven't been in there. There is a basic motel on the airport grounds, just tie down and walk over, you can see your aircraft from your motel room. There are buses from the airport. You can visit the wineries, do the tours, stay somewhere flash or right on the airport. Also the manager of Hunter Valley tourism is a private pilot if you need local advice. Sealed runway.</cmt>
+    <desc>There is a cafe at the airport, I haven't been in there. There is a basic motel on the airport grounds, just tie down and walk over, you can see your aircraft from your motel room. There are buses from the airport. You can visit the wineries, do the tours, stay somewhere flash or right on the airport. Also the manager of Hunter Valley tourism is a private pilot if you need local advice. Sealed runway.</desc>
+  </wpt>
+  <wpt lat="-38.323882000" lon="143.056755000">
+    <ele>0.000000</ele>
+    <name>Cobden</name>
+    <cmt>Airstrip 1km to center of town.</cmt>
+    <desc>Airstrip 1km to center of town.</desc>
+  </wpt>
+  <wpt lat="-29.258060000" lon="145.149436000">
+    <ele>0.000000</ele>
+    <name>Comeroo Camel Station</name>
+    <cmt>See http://www.comeroo.com/index.html</cmt>
+    <desc>See http://www.comeroo.com/index.html</desc>
+  </wpt>
+  <wpt lat="-34.628688000" lon="148.035107000">
+    <ele>0.000000</ele>
+    <name>Cootamundra</name>
+    <cmt>Airfield alongside the town.1km to the centre.</cmt>
+    <desc>Airfield alongside the town.1km to the centre.</desc>
+  </wpt>
+  <wpt lat="-23.131441000" lon="113.780508000">
+    <ele>0.000000</ele>
+    <name>Coral Bay</name>
+    <cmt>Walking distance over sand hill to town.A totally tourist town, with tourist prices.&lt;br>Very busy pub full of tourists, grey nomads, and backpackers.</cmt>
+    <desc>Walking distance over sand hill to town.A totally tourist town, with tourist prices.&lt;br>Very busy pub full of tourists, grey nomads, and backpackers.</desc>
+  </wpt>
+  <wpt lat="-23.646038000" lon="149.325185000">
+    <ele>0.000000</ele>
+    <name>Dingo Roadhouse</name>
+    <cmt>Airstrip right at the roadhouse.&lt;br>Highly recommended!&lt;br>Food, beer, accommodation.  As of April 2016 the strip was found to be very overgrown, with at least one anthill hidden in the tall grass.  Caution advised!!</cmt>
+    <desc>Airstrip right at the roadhouse.&lt;br>Highly recommended!&lt;br>Food, beer, accommodation.  As of April 2016 the strip was found to be very overgrown, with at least one anthill hidden in the tall grass.  Caution advised!!</desc>
+  </wpt>
+  <wpt lat="-28.583843000" lon="148.220887000">
+    <ele>0.000000</ele>
+    <name>Dirranbandi</name>
+    <cmt>Strip right adjoining the town.&lt;br>All facilities.</cmt>
+    <desc>Strip right adjoining the town.&lt;br>All facilities.</desc>
+  </wpt>
+  <wpt lat="-33.644420000" lon="134.898205000">
+    <ele>0.000000</ele>
+    <name>Elliston</name>
+    <cmt>Airstrip right near pretty coastal town.Pubs and seafood.</cmt>
+    <desc>Airstrip right near pretty coastal town.Pubs and seafood.</desc>
+  </wpt>
+  <wpt lat="-16.000028000" lon="127.974157000">
+    <ele>0.000000</ele>
+    <name>El Questro Station</name>
+    <cmt>http://www.elquestro.com.au/station/default-en.html</cmt>
+    <desc>http://www.elquestro.com.au/station/default-en.html</desc>
+  </wpt>
+  <wpt lat="-15.920642000" lon="128.125734000">
+    <ele>0.000000</ele>
+    <name>Emma Gorge</name>
+    <cmt>http://www.elquestro.com.au/default-en.html</cmt>
+    <desc>http://www.elquestro.com.au/default-en.html</desc>
+  </wpt>
+  <wpt lat="-31.653345000" lon="144.265122000">
+    <ele>0.000000</ele>
+    <name>Emmdale Roadhouse</name>
+    <cmt>Strip right across the highway from the roadhouse.</cmt>
+    <desc>Strip right across the highway from the roadhouse.</desc>
+  </wpt>
+  <wpt lat="-23.254358000" lon="150.814304000">
+    <ele>0.000000</ele>
+    <name>Emu Park</name>
+    <cmt>Almost in town.  Close to everything.&lt;br> Landing fee was $5 and the pub that overlooks onto the main beach does great cheap lunches</cmt>
+    <desc>Almost in town.  Close to everything.&lt;br> Landing fee was $5 and the pub that overlooks onto the main beach does great cheap lunches</desc>
+  </wpt>
+  <wpt lat="-20.103171000" lon="146.906176000">
+    <ele>0.000000</ele>
+    <name>Ravenswood</name>
+    <cmt>A ghost town very well set up a couple of pubs. Imperial hotel owners are fantastic offerd us use of a car and pick up and drop at strip. The town is a living museum great walking trails to all the old mine sites and the strip is right on the edge of an open cut.</cmt>
+    <desc>A ghost town very well set up a couple of pubs. Imperial hotel owners are fantastic offerd us use of a car and pick up and drop at strip. The town is a living museum great walking trails to all the old mine sites and the strip is right on the edge of an open cut.</desc>
+  </wpt>
+  <wpt lat="-23.438443000" lon="144.273491000">
+    <ele>0.000000</ele>
+    <name>Longreach</name>
+    <cmt>A bit more than 1km to the pubs in town, but Caattlemen's Bar and Grill and motels and caravan parks closer.  Quantas museum at the airfield, Outback Hall of Fame 1 km.</cmt>
+    <desc>A bit more than 1km to the pubs in town, but Caattlemen's Bar and Grill and motels and caravan parks closer.  Quantas museum at the airfield, Outback Hall of Fame 1 km.</desc>
+  </wpt>
+  <wpt lat="-20.047062000" lon="146.270084000">
+    <ele>0.000000</ele>
+    <name>Charters Towers</name>
+    <cmt>About 2 km to middle of historic town.</cmt>
+    <desc>About 2 km to middle of historic town.</desc>
+  </wpt>
+  <wpt lat="-26.412780000" lon="146.257210000">
+    <ele>0.000000</ele>
+    <name>Charleville</name>
+    <cmt>About 3km to the RSL Club for closest bar and best food value.  Snack bar at the airfield.&lt;br>Cosmos Celestial Observatory next to the airfield, bookings essential.</cmt>
+    <desc>About 3km to the RSL Club for closest bar and best food value.  Snack bar at the airfield.&lt;br>Cosmos Celestial Observatory next to the airfield, bookings essential.</desc>
+  </wpt>
+  <wpt lat="-21.386230000" lon="147.333226000">
+    <ele>0.000000</ele>
+    <name>Mt Coolan</name>
+    <cmt>Pub and food right nearby.  Looks like a real country pub.</cmt>
+    <desc>Pub and food right nearby.  Looks like a real country pub.</desc>
+  </wpt>
+  <wpt lat="-26.063375000" lon="135.247986000">
+    <ele>0.000000</ele>
+    <name>Mt Dare</name>
+    <cmt>Licensed bar and dining room.  Accommodation and camping.</cmt>
+    <desc>Licensed bar and dining room.  Accommodation and camping.</desc>
+  </wpt>
+  <wpt lat="-34.224498000" lon="118.215873000">
+    <ele>0.000000</ele>
+    <name>Lily Dutch Windmill</name>
+    <cmt>Taxi to restaurant and accommodation.&lt;br>See http://www.thelily.com.au/</cmt>
+    <desc>Taxi to restaurant and accommodation.&lt;br>See http://www.thelily.com.au/</desc>
+  </wpt>
+  <wpt lat="-32.563959000" lon="149.615164000">
+    <ele>0.000000</ele>
+    <name>Blue Wren Winery</name>
+    <cmt>A very pleasant walk from the airport at Mudgee, through their vineyard to the Blue Wren Winery. They do lunch and dinner (call before you go to make sure they're open!).&lt;br>http://www.bluewrenwines.com.au/</cmt>
+    <desc>A very pleasant walk from the airport at Mudgee, through their vineyard to the Blue Wren Winery. They do lunch and dinner (call before you go to make sure they're open!).&lt;br>http://www.bluewrenwines.com.au/</desc>
+  </wpt>
+  <wpt lat="-35.288647000" lon="138.493652000">
+    <ele>0.000000</ele>
+    <name>Aldinga</name>
+    <cmt>Aldinga: has great coffee &amp; tucker house right on the lovely green airfield!&lt;br>There's a cafe on the field -- taxi to parking and there it is. Toasted&lt;br>bacon, cheese and tomato sandwich recommended.</cmt>
+    <desc>Aldinga: has great coffee &amp; tucker house right on the lovely green airfield!&lt;br>There's a cafe on the field -- taxi to parking and there it is. Toasted&lt;br>bacon, cheese and tomato sandwich recommended.</desc>
+  </wpt>
+  <wpt lat="-32.576762000" lon="139.564133000">
+    <ele>0.000000</ele>
+    <name>Yunta</name>
+    <cmt>500mtr walk to two road-houses, well maintained out-back dirt strip.</cmt>
+    <desc>500mtr walk to two road-houses, well maintained out-back dirt strip.</desc>
+  </wpt>
+  <wpt lat="-32.883912000" lon="138.366280000">
+    <ele>0.000000</ele>
+    <name>Booleroo</name>
+    <cmt>1.4 km walk to town, passes 'Steam &amp; Traction Musium'</cmt>
+    <desc>1.4 km walk to town, passes 'Steam &amp; Traction Musium'</desc>
+  </wpt>
+  <wpt lat="-34.556583000" lon="139.591084000">
+    <ele>0.000000</ele>
+    <name>Swan Reach</name>
+    <cmt>1km to punt across Murray, then 100m to choice of pub or cafes.&lt;br>Strip is ok, but half flat then very uphill (or very downhill then flat).&lt;br>Pilots should overfly low and check this single runway carefully.&lt;br>Take-off uphill terrain fools you, it seems the a/c is not climbing</cmt>
+    <desc>1km to punt across Murray, then 100m to choice of pub or cafes.&lt;br>Strip is ok, but half flat then very uphill (or very downhill then flat).&lt;br>Pilots should overfly low and check this single runway carefully.&lt;br>Take-off uphill terrain fools you, it seems the a/c is not climbing</desc>
+  </wpt>
+  <wpt lat="-30.530938000" lon="145.122957000">
+    <ele>0.000000</ele>
+    <name>Louth</name>
+    <cmt>Cabin style units next to the Pub overlooking the river, and bed and breakfast over the road from the Pub. The accommodation is terrific, good food and hospitality. Run by the owners, David and Cath Marett. The airstrip is 1 NM east of the town, an easy walk or they will pick you up. The strip is bitumen and 1065 metres,</cmt>
+    <desc>Cabin style units next to the Pub overlooking the river, and bed and breakfast over the road from the Pub. The accommodation is terrific, good food and hospitality. Run by the owners, David and Cath Marett. The airstrip is 1 NM east of the town, an easy walk or they will pick you up. The strip is bitumen and 1065 metres,</desc>
+  </wpt>
+  <wpt lat="-27.204717000" lon="144.388118000">
+    <ele>0.000000</ele>
+    <name>Toompine</name>
+    <cmt>'The Pub without a Town'&lt;br>Old Cob and Co. staging post.&lt;br>A real country pub!&lt;br>Airstrip about 3km from the pub, but ring ahead 07 4656 4863 and overfly the pub for pickup.</cmt>
+    <desc>'The Pub without a Town'&lt;br>Old Cob and Co. staging post.&lt;br>A real country pub!&lt;br>Airstrip about 3km from the pub, but ring ahead 07 4656 4863 and overfly the pub for pickup.</desc>
+  </wpt>
+  <wpt lat="-30.850806000" lon="143.073750000">
+    <ele>0.000000</ele>
+    <name>White Cliffs</name>
+    <cmt>Opal Mining.&lt;br>A bit more than 1km to town, but accommodation owners will pick up. PJ's Underground 08 8091 6626, White Cliffs Underground Motel 08 8091 6677.&lt;br>Note: One pilot got fined $275 for riding in the back of a ute!  Coppers even there.....&lt;br>Avgas</cmt>
+    <desc>Opal Mining.&lt;br>A bit more than 1km to town, but accommodation owners will pick up. PJ's Underground 08 8091 6626, White Cliffs Underground Motel 08 8091 6677.&lt;br>Note: One pilot got fined $275 for riding in the back of a ute!  Coppers even there.....&lt;br>Avgas</desc>
+  </wpt>
+  <wpt lat="-33.196897000" lon="138.616390000">
+    <ele>0.000000</ele>
+    <name>Jamestown</name>
+    <cmt>There are two pubs, a cafe and a bakery in the middle of town, which&lt;br>is a 10 minute walk down Murchland Drive, turn right when you get to&lt;br>the school.  Note: No fuel available.</cmt>
+    <desc>There are two pubs, a cafe and a bakery in the middle of town, which&lt;br>is a 10 minute walk down Murchland Drive, turn right when you get to&lt;br>the school.  Note: No fuel available.</desc>
+  </wpt>
+  <wpt lat="-34.183974000" lon="140.025902000">
+    <ele>0.000000</ele>
+    <name>Waikerie</name>
+    <cmt>Okay, it's a bit more than a kilometer, but the Waikerie Bakery is within&lt;br>marginal walking distance of the aerodrome.  Pizza Pie and Strawberry&lt;br>Tart thanks, if there's any left.</cmt>
+    <desc>Okay, it's a bit more than a kilometer, but the Waikerie Bakery is within&lt;br>marginal walking distance of the aerodrome.  Pizza Pie and Strawberry&lt;br>Tart thanks, if there's any left.</desc>
+  </wpt>
+  <wpt lat="-31.654477000" lon="138.608580000">
+    <ele>0.000000</ele>
+    <name>Rawnsley Park</name>
+    <cmt>15 minutes walk to the North West gets you to Rawnsley Park Station,&lt;br>which includes a licensed restaurant/cafe open 7 days.  Meat lovers&lt;br>pizza is pretty good.  AVGAS available, with a $15 service charge.&lt;br>Contact them at http://www.rawnsleypark.com.au/ for landing permission&lt;br>and to make sure fuel is available.  The accommodation is top-notch&lt;br>if you want to spend the night, too</cmt>
+    <desc>15 minutes walk to the North West gets you to Rawnsley Park Station,&lt;br>which includes a licensed restaurant/cafe open 7 days.  Meat lovers&lt;br>pizza is pretty good.  AVGAS available, with a $15 service charge.&lt;br>Contact them at http://www.rawnsleypark.com.au/ for landing permission&lt;br>and to make sure fuel is available.  The accommodation is top-notch&lt;br>if you want to spend the night, too</desc>
+  </wpt>
+  <wpt lat="-37.049800000" lon="142.268615000">
+    <ele>0.000000</ele>
+    <name>Grampians Airfield</name>
+    <cmt>http://www.assesearslodge.com.au/grampians_airfield.html Great for a group fly in!&lt;br>Taxi to your cabin.</cmt>
+    <desc>http://www.assesearslodge.com.au/grampians_airfield.html Great for a group fly in!&lt;br>Taxi to your cabin.</desc>
+  </wpt>
+  <wpt lat="-32.441988000" lon="136.069450000">
+    <ele>0.000000</ele>
+    <name>Mt Ive Station</name>
+    <cmt>http://www.mtive.com.au/ &lt;br>Good accommodation, BYO food, PULP. Excellent group fly-in location. &lt;br>-32.4444,136.0697</cmt>
+    <desc>http://www.mtive.com.au/ &lt;br>Good accommodation, BYO food, PULP. Excellent group fly-in location. &lt;br>-32.4444,136.0697</desc>
+  </wpt>
+  <wpt lat="-35.797288000" lon="138.069520000">
+    <ele>0.000000</ele>
+    <name>Chapman River Wines</name>
+    <cmt>http://www.goodfoodkangarooisland.com/wine/chapmanriverwines.asp &lt;br>Great lunch platter. Camping and cabins also nearby.&lt;br> -35.7974,138.0695 &lt;br>Phone ahead to make sure it is mowed and clear of cattle!</cmt>
+    <desc>http://www.goodfoodkangarooisland.com/wine/chapmanriverwines.asp &lt;br>Great lunch platter. Camping and cabins also nearby.&lt;br> -35.7974,138.0695 &lt;br>Phone ahead to make sure it is mowed and clear of cattle!</desc>
+  </wpt>
+  <wpt lat="-34.366678000" lon="136.097603000">
+    <ele>0.000000</ele>
+    <name>Tumby Bay</name>
+    <cmt>The airstrip is virtually at the end of the main street.</cmt>
+    <desc>The airstrip is virtually at the end of the main street.</desc>
+  </wpt>
+  <wpt lat="-14.925731000" lon="133.133976000">
+    <ele>0.000000</ele>
+    <name>Mataranka Homestead Resort</name>
+    <cmt>(08) 8975 4544 ‎ ·&lt;br> See www.matarankahomestead.com.au</cmt>
+    <desc>(08) 8975 4544 ‎ ·&lt;br> See www.matarankahomestead.com.au</desc>
+  </wpt>
+  <wpt lat="-16.074022000" lon="136.303682000">
+    <ele>0.000000</ele>
+    <name>Boraloola</name>
+    <cmt>150 metres from Borroloola Hotel, restaurant and accom. Avgas and jet A1 on bowser</cmt>
+    <desc>150 metres from Borroloola Hotel, restaurant and accom. Avgas and jet A1 on bowser</desc>
+  </wpt>
+  <wpt lat="-33.745039000" lon="143.001137000">
+    <ele>0.000000</ele>
+    <name>Mungo Lodge</name>
+    <cmt>Restaurant and accommodation on site.&lt;br>http://www.mungolodge.com.au/html/mungo_lodge_services_facilities.html</cmt>
+    <desc>Restaurant and accommodation on site.&lt;br>http://www.mungolodge.com.au/html/mungo_lodge_services_facilities.html</desc>
+  </wpt>
+  <wpt lat="-22.374206000" lon="141.527424000">
+    <ele>0.000000</ele>
+    <name>Middleton Pub</name>
+    <cmt>Official airstrip is 5 km away across the creek, but aircraft often land on the road right out front, unofficially, and at your own risk,eh....</cmt>
+    <desc>Official airstrip is 5 km away across the creek, but aircraft often land on the road right out front, unofficially, and at your own risk,eh....</desc>
+  </wpt>
+  <wpt lat="-36.822340000" lon="139.869175000">
+    <ele>0.000000</ele>
+    <name>Kingston SE</name>
+    <cmt>Park on the grass, the entire bitumen apron is permanently reserved for the Flying Doctor.&lt;br>&lt;br>Ten minutes walk from the centre of Kingston (Agnes St).  Plenty of B&amp;B&lt;br>accommodation, caravan parks, motels, and two pubs which will pick you up&lt;br>from the airport if you phone ahead and intend to stay or eat.  Cafes,&lt;br>fish and chip shops, an IGA supermarket which can sell you supplies for&lt;br>the coin-operated BBQs on the waterfront. Beautiful sandy beach.&lt;br>&lt;br>"The Big Lobster" is right next to the airport, a kitschy tourist stop&lt;br>with cheap souvenirs and a menu of ultra-fresh crayfish dishes.  Kingston&lt;br>is a crayfish port, so you can expect that what you're eating is fresh&lt;br>off the boat from that morning.</cmt>
+    <desc>Park on the grass, the entire bitumen apron is permanently reserved for the Flying Doctor.&lt;br>&lt;br>Ten minutes walk from the centre of Kingston (Agnes St).  Plenty of B&amp;B&lt;br>accommodation, caravan parks, motels, and two pubs which will pick you up&lt;br>from the airport if you phone ahead and intend to stay or eat.  Cafes,&lt;br>fish and chip shops, an IGA supermarket which can sell you supplies for&lt;br>the coin-operated BBQs on the waterfront. Beautiful sandy beach.&lt;br>&lt;br>"The Big Lobster" is right next to the airport, a kitschy tourist stop&lt;br>with cheap souvenirs and a menu of ultra-fresh crayfish dishes.  Kingston&lt;br>is a crayfish port, so you can expect that what you're eating is fresh&lt;br>off the boat from that morning.</desc>
+  </wpt>
+  <wpt lat="-16.258351000" lon="133.377457000">
+    <ele>0.000000</ele>
+    <name>Daly Waters</name>
+    <cmt>Great bush pub and isolated ex bomber strip with aircraft wreckage still present motel at pub and feeds c/van park with camping.....Also world war two hangers and old qantas hanger</cmt>
+    <desc>Great bush pub and isolated ex bomber strip with aircraft wreckage still present motel at pub and feeds c/van park with camping.....Also world war two hangers and old qantas hanger</desc>
+  </wpt>
+  <wpt lat="-27.163564000" lon="151.266546000">
+    <ele>0.000000</ele>
+    <name>Dalby</name>
+    <cmt>Couple of pubs within walking distance</cmt>
+    <desc>Couple of pubs within walking distance</desc>
+  </wpt>
+  <wpt lat="-30.847048000" lon="128.113546000">
+    <ele>0.000000</ele>
+    <name>Forest</name>
+    <cmt>Caretakers have a bar, food and fuel and great hospitality.</cmt>
+    <desc>Caretakers have a bar, food and fuel and great hospitality.</desc>
+  </wpt>
+  <wpt lat="-20.538594000" lon="147.554262000">
+    <ele>0.000000</ele>
+    <name>Bowen River Hotel</name>
+    <cmt>20°32'21.87"S 147°33'14.61"E &lt;br>Great little pub with a strip 16nm west of Collinsville. Food, cold beer and accommodation available see http://bowenriverhotel.com.au/about-us.html for more details or call 07 47 853388&lt;br>&lt;br>There is also a Rodeo held here queens birthday weekend in june</cmt>
+    <desc>20°32'21.87"S 147°33'14.61"E &lt;br>Great little pub with a strip 16nm west of Collinsville. Food, cold beer and accommodation available see http://bowenriverhotel.com.au/about-us.html for more details or call 07 47 853388&lt;br>&lt;br>There is also a Rodeo held here queens birthday weekend in june</desc>
+  </wpt>
+  <wpt lat="-32.759129000" lon="142.372620000">
+    <ele>0.000000</ele>
+    <name>Bindara Station</name>
+    <cmt>Another nice place near Broken Hill is Bindara Station, approx 150 km south south east of broken hill, great condition airstrip, about 5km from the homestead, but call ahead and they will come out and pick you up after you overfly the homestead. fantastic home cooked meals and all levels of accom, from campsite, to drovers quarters, right on the darling river. &lt;br>very aircraft friendly, but no fuel. &lt;br>&lt;br>http://www.bindarastation.com/bindara.htm&lt;br>&lt;br>(The marker is the homestead. Long way from the strip.  Better call the station for instructions before arrival.)</cmt>
+    <desc>Another nice place near Broken Hill is Bindara Station, approx 150 km south south east of broken hill, great condition airstrip, about 5km from the homestead, but call ahead and they will come out and pick you up after you overfly the homestead. fantastic home cooked meals and all levels of accom, from campsite, to drovers quarters, right on the darling river. &lt;br>very aircraft friendly, but no fuel. &lt;br>&lt;br>http://www.bindarastation.com/bindara.htm&lt;br>&lt;br>(The marker is the homestead. Long way from the strip.  Better call the station for instructions before arrival.)</desc>
+  </wpt>
+  <wpt lat="-18.663485000" lon="146.149578000">
+    <ele>0.000000</ele>
+    <name>Ingham</name>
+    <cmt>Short walk to town for food, Hotels/ accom or fuel. Also fuel on bowser at airport. See ERSA for fuel contact numbers. Night camping available in airport lounge which is an ex-schoolroom with toilets nearby, or tent camping at airport.</cmt>
+    <desc>Short walk to town for food, Hotels/ accom or fuel. Also fuel on bowser at airport. See ERSA for fuel contact numbers. Night camping available in airport lounge which is an ex-schoolroom with toilets nearby, or tent camping at airport.</desc>
+  </wpt>
+  <wpt lat="-17.929273000" lon="145.938113000">
+    <ele>0.000000</ele>
+    <name>Tully</name>
+    <cmt>And Tully Airport...busy little place full of meatbombers that disgorge over mission beach..... about 2km to main street of Tully.&lt;br>More than the 1 km walk, but a Shell service station right nearby.</cmt>
+    <desc>And Tully Airport...busy little place full of meatbombers that disgorge over mission beach..... about 2km to main street of Tully.&lt;br>More than the 1 km walk, but a Shell service station right nearby.</desc>
+  </wpt>
+  <wpt lat="-36.426048000" lon="145.390749000">
+    <ele>0.000000</ele>
+    <name>Shepparton</name>
+    <cmt>At Shepparton we have a licensed Aeroclub, a caravan park with cabins 100 metres across the road, and a big pub 300 metres up the road.</cmt>
+    <desc>At Shepparton we have a licensed Aeroclub, a caravan park with cabins 100 metres across the road, and a big pub 300 metres up the road.</desc>
+  </wpt>
+  <wpt lat="-35.341035000" lon="146.285276000">
+    <ele>0.000000</ele>
+    <name>Urana</name>
+    <cmt>Less than a k to the pub and very pleasant</cmt>
+    <desc>Less than a k to the pub and very pleasant</desc>
+  </wpt>
+  <wpt lat="-35.554365000" lon="144.949450000">
+    <ele>0.000000</ele>
+    <name>Deniliquin</name>
+    <cmt>Deniliquin for a $8 breakfast&lt;br>We have it every Sunday 8 - 9:30&lt;br>Plenty of accommodation in town if you want to fly in Saturday night, maybe make a weekend and join us on Friday night as well</cmt>
+    <desc>Deniliquin for a $8 breakfast&lt;br>We have it every Sunday 8 - 9:30&lt;br>Plenty of accommodation in town if you want to fly in Saturday night, maybe make a weekend and join us on Friday night as well</desc>
+  </wpt>
+  <wpt lat="-33.709775000" lon="136.503925000">
+    <ele>0.000000</ele>
+    <name>Cleve</name>
+    <cmt>Easy walk, less than a km.&lt;br>If you're hampered, ring the hotel and he'll pick you up.</cmt>
+    <desc>Easy walk, less than a km.&lt;br>If you're hampered, ring the hotel and he'll pick you up.</desc>
+  </wpt>
+  <wpt lat="-36.162617000" lon="144.764442000">
+    <ele>0.000000</ele>
+    <name>Echuca</name>
+    <cmt>Echuca aero club has a Sunday lunch the 3rd Sunday of every month, also Friday night drinks the 2nd and 4th Friday of each month, check their website.</cmt>
+    <desc>Echuca aero club has a Sunday lunch the 3rd Sunday of every month, also Friday night drinks the 2nd and 4th Friday of each month, check their website.</desc>
+  </wpt>
+  <wpt lat="-32.343216000" lon="123.610563500">
+    <ele>0.000000</ele>
+    <name>Balladonia</name>
+    <cmt>About 1 km to the roadhouse.</cmt>
+    <desc>About 1 km to the roadhouse.</desc>
+  </wpt>
+  <wpt lat="-32.278280000" lon="125.480347000">
+    <ele>0.000000</ele>
+    <name>Caigunia</name>
+    <cmt>Roadhouse</cmt>
+    <desc>Roadhouse</desc>
+  </wpt>
+  <wpt lat="-32.040386000" lon="126.095839000">
+    <ele>0.000000</ele>
+    <name>Cocklebiddy</name>
+    <cmt>Right next to the roadhouse</cmt>
+    <desc>Right next to the roadhouse</desc>
+  </wpt>
+  <wpt lat="-31.890822000" lon="127.027445000">
+    <ele>0.000000</ele>
+    <name>Madura</name>
+    <cmt>About 1 km to the roadhouse.</cmt>
+    <desc>About 1 km to the roadhouse.</desc>
+  </wpt>
+  <wpt lat="-31.431593000" lon="152.869048000">
+    <ele>0.000000</ele>
+    <name>Port Maquarie</name>
+    <cmt>Port Macquarie has Panthers RSL Club exactly 1km walk, its on the airport rd. does bistro lunch etc. also the airport terminal building itself does a mean hamburger, bacon n eggs etc early till about 1pm</cmt>
+    <desc>Port Macquarie has Panthers RSL Club exactly 1km walk, its on the airport rd. does bistro lunch etc. also the airport terminal building itself does a mean hamburger, bacon n eggs etc early till about 1pm</desc>
+  </wpt>
+  <wpt lat="-26.252316000" lon="151.929760000">
+    <ele>0.000000</ele>
+    <name>Murgon</name>
+    <cmt>Murgon</cmt>
+    <desc>Murgon</desc>
+  </wpt>
+  <wpt lat="-36.609534000" lon="140.501747000">
+    <ele>0.000000</ele>
+    <name>Padthaway, SA</name>
+    <cmt>The strip is approx 1km (or less) East of the General Store/Deli/Takeaway with a shady park between to sit and eat.</cmt>
+    <desc>The strip is approx 1km (or less) East of the General Store/Deli/Takeaway with a shady park between to sit and eat.</desc>
+  </wpt>
+  <wpt lat="-30.532361000" lon="151.615448000">
+    <ele>0.000000</ele>
+    <name>Armidale</name>
+    <cmt>Armidale NSW has a Caltex servo at the airport . And a cafe open monday to friday some hours in the terminal.</cmt>
+    <desc>Armidale NSW has a Caltex servo at the airport . And a cafe open monday to friday some hours in the terminal.</desc>
+  </wpt>
+  <wpt lat="-31.999560000" lon="141.470261000">
+    <ele>0.000000</ele>
+    <name>Broken Hill</name>
+    <cmt>Cafe on the airfield. Plus the flying club has a couple small accommodation units on field, great if your just passing through and want to get an early start. The local pizza shop also deliver out to the strip, what more could you want? &lt;br>&lt;br>A cold beer, please.....</cmt>
+    <desc>Cafe on the airfield. Plus the flying club has a couple small accommodation units on field, great if your just passing through and want to get an early start. The local pizza shop also deliver out to the strip, what more could you want? &lt;br>&lt;br>A cold beer, please.....</desc>
+  </wpt>
+  <wpt lat="-17.155259400" lon="144.524286600">
+    <ele>0.000000</ele>
+    <name>Chillagoe</name>
+    <cmt>Easy walk to town.  Interesting old mine sites.  Caves/</cmt>
+    <desc>Easy walk to town.  Interesting old mine sites.  Caves/</desc>
+  </wpt>
+  <wpt lat="-15.556464400" lon="144.448821600">
+    <ele>0.000000</ele>
+    <name>Laura</name>
+    <cmt>600M to town.</cmt>
+    <desc>600M to town.</desc>
+  </wpt>
+  <wpt lat="-18.506515300" lon="144.093828800">
+    <ele>0.000000</ele>
+    <name>Einasleigh</name>
+    <cmt>Right close to real country pub.  River and gorge.</cmt>
+    <desc>Right close to real country pub.  River and gorge.</desc>
+  </wpt>
+  <wpt lat="-32.006110800" lon="115.542097100">
+    <ele>0.000000</ele>
+    <name>Rottnest Island</name>
+    <cmt>A shuttle bus can pick you up.</cmt>
+    <desc>A shuttle bus can pick you up.</desc>
+  </wpt>
+  <wpt lat="-34.324937500" lon="115.155429800">
+    <ele>0.000000</ele>
+    <name>Augusta, WA</name>
+    <cmt>Augusta, WA</cmt>
+    <desc>Augusta, WA</desc>
+  </wpt>
+  <wpt lat="-38.214108900" lon="145.425596200">
+    <ele>0.000000</ele>
+    <name>Tooradin, V</name>
+    <cmt>Restaurant on the field, fish a specialty.</cmt>
+    <desc>Restaurant on the field, fish a specialty.</desc>
+  </wpt>
+  <wpt lat="-38.205645000" lon="146.471571900">
+    <ele>0.000000</ele>
+    <name>La Trobe Regional</name>
+    <cmt>Tea and pies at the aeroclub, restaurant and motel 800 mtrs.</cmt>
+    <desc>Tea and pies at the aeroclub, restaurant and motel 800 mtrs.</desc>
+  </wpt>
+  <wpt lat="-28.835050000" lon="151.157798800">
+    <ele>0.000000</ele>
+    <name>Texas</name>
+    <cmt>More like 1.5k to town, but a nice quiet unattended airstrip suitable for camping.</cmt>
+    <desc>More like 1.5k to town, but a nice quiet unattended airstrip suitable for camping.</desc>
+  </wpt>
+</gpx>
